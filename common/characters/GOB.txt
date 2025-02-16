@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = fascism_ideology
-			traits = { definitely_not_a_dictator, grand_wizard, goy, feminist, }
+			traits = { definitely_not_a_dictator, grand_wizard, goy, feminist }
 				
 			}
 		}
@@ -36,7 +36,21 @@ characters = {
 		}
 		country_leader = {
 			ideology = despotism
-			traits = { grand_baron, goy, wifes_boyfriend }
+			traits = { grand_baron, goy, wifes_boyfriend, hyper_borea}
+				
+			}
+		}
+	}
+	GOB_Democratic_Leader = {
+		name = GOB_democratic_leader
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GOB_character
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits = { fat, jewish,  }
 				
 			}
 		}
