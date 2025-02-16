@@ -6,5 +6,25 @@ characters = {
 				large = GFX_portrait_GOB_character
 			}
 		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits = { definitely_not_a_dictator, grand_wizard, goy}
+				
+			}
+		}
+	}
+	GOB_Communism_Leader = {
+		name = GOB_communism_leader
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GOB_character
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			traits = { femboy, }
+				
+			}
+		}
 	}
 }
