@@ -1,0 +1,1 @@
+GOB = "countries/goobers_council.txt"
