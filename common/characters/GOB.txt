@@ -50,7 +50,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = liberalism
-			traits = { fat, jewish,  }
+			traits = { fat, jewish, cruel_of_the_world, the_coach, discord_moderator }
 				
 			}
 		}
