@@ -1,3 +1,10 @@
 characters = {
-	
+	GOB_Fascist_Leader = {
+		name = GOB_fascism_leader
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GOB_character
+			}
+		}
+	}
 }
