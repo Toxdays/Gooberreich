@@ -1076,7 +1076,7 @@ KUB = {
 	color_ui = rgb { 61 61 92 }
 }
 GOB = {
-	color = rgb { 255 0 0 }
+	color = rgb { 255 0 2 }
 	color_ui = rgb {205 147 248}
 }
 
