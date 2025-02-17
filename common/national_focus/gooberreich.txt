@@ -8,10 +8,11 @@ focus_tree = {
             tag = GOB
         }
     }
+    shared_focus = GOB_focus_INDUSTRY
 
     focus = {
         id = GOB_focus_START
-        icon = GFX_portrait_Husky_Pixelz
+        icon = GFX_idea_SWI_spirit_of_helvetia_defensive_war
         cost = 1
         x = 2
         y = 0
@@ -38,7 +39,7 @@ focus_tree = {
         id = GOB_focus_N
         icon = GFX_idea_ger_revive_the_kaiserreich
         cost = 1
-        x = 4
+        x = 6
         y = 1
         prerequisite = {
             focus = GOB_focus_START
