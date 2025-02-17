@@ -21,7 +21,7 @@ focus_tree = {
     }
     focus = {
         id = GOB_focus_2
-        icon = GFX_portrait_Husky_Pixelz
+        icon = GFX_idea_generic_communist_army
         relative_position_id = GOB_focus_1
         cost = 1
         x = -1
@@ -38,7 +38,7 @@ focus_tree = {
     }
     focus = {
         id = GOB_focus_3
-        icon = GFX_portrait_Husky_Pixelz
+        icon = GFX_idea_ger_revive_the_kaiserreich
         cost = 1
         x = 1
         y = 1
@@ -54,7 +54,7 @@ focus_tree = {
     }
     focus = {
         id = GOB_focus_4
-        icon = GFX_portrait_Husky_Pixelz
+        icon = GFX_idea_german_advisors
         cost = 1
         x = 2
         y = 1
@@ -70,7 +70,7 @@ focus_tree = {
     }
     focus = {
         id = GOB_focus_5
-        icon = GFX_portrait_Husky_Pixelz
+        icon = GFX_idea_new_deal
         cost = 1
         x = -2
         y = 1
