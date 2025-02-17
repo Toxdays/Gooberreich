@@ -53,7 +53,7 @@ focus_tree = {
         icon = GFX_idea_german_advisors
         cost = 1
         x = 2
-        y = 3
+        y = 2.5
         prerequisite = {
             focus = GOB_focus_C_F_D
         }
@@ -68,7 +68,7 @@ focus_tree = {
         icon = GFX_idea_new_deal
         cost = 1
         x = -2
-        y = 3
+        y = 2.5
         prerequisite = {
             focus = GOB_focus_C_F_D
         }
@@ -83,7 +83,7 @@ focus_tree = {
         icon = GFX_idea_home_of_revolution
         cost = 1
         x = 0
-        y = 3
+        y = 2.5
         prerequisite = {
             focus = GOB_focus_C_F_D
         }
