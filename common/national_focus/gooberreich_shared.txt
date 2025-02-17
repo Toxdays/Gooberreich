@@ -32,8 +32,8 @@ shared_focus = {
 	icon = GFX_idea_ARG_resource_extration_focus
 	cost = 7
 	relative_position_id = GOB_focus_INDUSTRY
-	x = -0.75
-	y = 1.25
+	x = -1
+	y = 2
 	prerequisite = {
 		focus = GOB_focus_INDUSTRY
 	}
@@ -53,8 +53,8 @@ shared_focus = {
 	icon = GFX_idea_SOV_russian_corporate_state_ccp_sov_compatibility
 	cost = 7
 	relative_position_id = GOB_focus_INDUSTRY
-	x = 0.75
-	y = 1.25
+	x = 1
+	y = 2
 	prerequisite = {
 		focus = GOB_focus_INDUSTRY
 	}
