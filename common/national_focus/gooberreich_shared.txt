@@ -29,7 +29,7 @@ shared_focus = {
 }
 shared_focus = {
 	id = GOB_focus_INDUSTRY_RESOURCES
-	icon = GFX_portrait_Pabilo
+	icon = GFX_idea_ARG_resource_extration_focus
 	cost = 7
 	relative_position_id = GOB_focus_INDUSTRY
 	x = -0.75
@@ -50,7 +50,7 @@ shared_focus = {
 }
 shared_focus = {
 	id = GOB_focus_INDUSTRY_2
-	icon = GFX_portrait_Pabilo
+	icon = GFX_idea_SOV_russian_corporate_state_ccp_sov_compatibility
 	cost = 7
 	relative_position_id = GOB_focus_INDUSTRY
 	x = 0.75
