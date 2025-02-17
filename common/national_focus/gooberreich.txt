@@ -11,7 +11,7 @@ focus_tree = {
 
     focus = {
         id = GOB_focus_START
-        icon = GFX_portrait_Husky_Pixelz
+        icon = GFX_idea_SWI_spirit_of_helvetia_defensive_war
         cost = 1
         x = 2
         y = 0
@@ -38,7 +38,7 @@ focus_tree = {
         id = GOB_focus_N
         icon = GFX_idea_ger_revive_the_kaiserreich
         cost = 1
-        x = 4
+        x = 6
         y = 1
         prerequisite = {
             focus = GOB_focus_START
@@ -101,5 +101,32 @@ focus_tree = {
             ruling_party = communism
             elections_allowed = no
         } }
+    }
+    focus = {
+        id = GOB_focus_N_INDUSTRY
+        icon = GFX_idea_bul_nationalized_industry
+        cost = 1
+        x = 4
+        y = 2.5
+        prerequisite = {
+            focus = GOB_focus_N
+        }
+        completion_reward = { 	
+            random_owned_controlled_state = {
+            limit = {
+                is_core_of = ROOT
+            }
+            
+            prioritize = { 4 } 
+
+            add_extra_state_shared_building_slots = 1
+
+            add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+            }	
+        }	
+    }
     }
 }
