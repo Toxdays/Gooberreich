@@ -17,19 +17,23 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 15
+	fascism = 25
 	neutrality = 25
-	democratic = 50
-	communism = 10
+	democratic = 25
+	communism = 25
 }
 
+
+recruit_character = GOB_Piglin_Neutral
+recruit_character = GOB_Kaapro_Fascism
+recruit_character = GOB_Tox_Communism
 recruit_character = GOB_Husky_Democratic
 
 
