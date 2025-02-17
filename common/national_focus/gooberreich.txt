@@ -8,6 +8,7 @@ focus_tree = {
             tag = GOB
         }
     }
+    shared_focus = GOB_focus_INDUSTRY
 
     focus = {
         id = GOB_focus_START
@@ -101,32 +102,5 @@ focus_tree = {
             ruling_party = communism
             elections_allowed = no
         } }
-    }
-    focus = {
-        id = GOB_focus_N_INDUSTRY
-        icon = GFX_idea_bul_nationalized_industry
-        cost = 1
-        x = 4
-        y = 2.5
-        prerequisite = {
-            focus = GOB_focus_N
-        }
-        completion_reward = { 	
-            random_owned_controlled_state = {
-            limit = {
-                is_core_of = ROOT
-            }
-            
-            prioritize = { 4 } 
-
-            add_extra_state_shared_building_slots = 1
-
-            add_building_construction = {
-                type = arms_factory
-                level = 2
-                instant_build = yes
-            }	
-        }	
-    }
     }
 }
