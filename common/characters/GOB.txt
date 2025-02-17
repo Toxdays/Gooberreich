@@ -9,50 +9,45 @@ characters = {
 		country_leader = {
 			ideology = fascism_ideology
 			traits = { definitely_not_a_dictator, grand_wizard, goy, feminist }
-				
-			}
 		}
 	}
+
 	GOB_Tox_Communism = {
 		name = GOB_tox_communism_leader
 		portraits = {
 			civilian = {
-				large = GFX_portrait_GOB_character
+				large = GFX_portrait_Kaapro_von_Gamer
 			}
 		}
 		country_leader = {
 			ideology = stalinism
 			traits = { femboy, jewish, petrokowski_heritige, soylent_enjoyer, mrcocksfag12 }
-				
-			}
 		}
 	}
+
 	GOB_Piglin_Neutral = {
 		name = GOB_piglin_neutral_leader
 		portraits = {
 			civilian = {
-				large = GFX_portrait_GOB_character
+				large = GFX_portrait_Kaapro_von_Gamer
 			}
 		}
 		country_leader = {
 			ideology = despotism
 			traits = { grand_baron, goy, wifes_boyfriend, hyper_borea}
-				
-			}
 		}
 	}
+
 	GOB_Husky_Democratic = {
 		name = GOB_husky_democratic_leader
 		portraits = {
 			civilian = {
-				large = GFX_portrait_GOB_character
+				large = GFX_portrait_Kaapro_von_Gamer
 			}
 		}
 		country_leader = {
 			ideology = liberalism
 			traits = { fat, jewish, cruel_of_the_world, the_coach, discord_moderator }
-				
-			}
 		}
 	}
 }
