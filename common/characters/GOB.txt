@@ -42,7 +42,7 @@ characters = {
 		name = GOB_husky_democratic_leader
 		portraits = {
 			civilian = {
-				large = GFX_portrait_Kaapro_von_Gamer
+				large = GFX_portrait_Husky_Pixelz
 			}
 		}
 		country_leader = {
