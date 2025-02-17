@@ -1079,5 +1079,10 @@ GOB = {
 	color = rgb { 255 0 0 }
 	color_ui = rgb {205 147 248}
 }
+ZHA = {
+	color = rgb { 22 108 40 }
+	color_ui = rgb {108 22 90}
+
+}
 
 

@@ -1,0 +1,2 @@
+GOB = "countries/gooberreich.txt"
+ZHA = "countries/zhadirssaxony.txt"

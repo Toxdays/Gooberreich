@@ -1,4 +1,5 @@
 ﻿l_english:
+ ####### GOOBERREICH #######
  GOB: "Goobers"
  GOB_DEF: "The Goobers"
  GOB_ADJ: "Goober"
@@ -14,5 +15,22 @@
  GOB_neutrality: "Konigsbourg"
  GOB_neutrality_DEF: "The Barony of Konigsbourg"
  GOB_neutrality_ADJ: "Konigsbürger"
+ ####### ZHADIR'S SAXONY #######
+ ZHA: "Saxony"
+ ZHA_DEF: "The State of Saxony"
+ ZHA_ADJ: "Saxon"
+ ZHA_democratic: "Conservative State of Saxony"
+ ZHA_democratic_DEF: "The Conservative State of Saxony"
+ ZHA_democratic_ADJ: "Liberal Saxon"
+ ZHA_fascism: "Saxon Empire"
+ ZHA_fascism_DEF: "Turkylaskaris's Autocracy of Saxony"
+ ZHA_fascism_ADJ: "Corporate Goons of Turky"
+ ZHA_neutrality: "Kingdom of Saxony"
+ ZHA_neutrality_DEF: "The Kingdom of Saxony"
+ ZHA_neutrality_ADJ: "Saxon"
+ ZHA_communism: "Republic of Saxony"
+ ZHA_communism_DEF: "The Worker's Republic of Saxony"
+ ZHA_communism_ADJ: "Communist Saxon"
+ 
 
  
