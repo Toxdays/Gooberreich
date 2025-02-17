@@ -33,7 +33,7 @@ shared_focus = {
 	cost = 7
 	relative_position_id = GOB_focus_INDUSTRY
 	x = -1
-	y = 2
+	y = 1.25
 	prerequisite = {
 		focus = GOB_focus_INDUSTRY
 	}
@@ -54,7 +54,7 @@ shared_focus = {
 	cost = 7
 	relative_position_id = GOB_focus_INDUSTRY
 	x = 1
-	y = 2
+	y = 1.25
 	prerequisite = {
 		focus = GOB_focus_INDUSTRY
 	}
