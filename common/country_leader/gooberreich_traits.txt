@@ -151,5 +151,14 @@ leader_traits = {
 		}
 	}
 
+	they_them_energy = {
+		random = no
+		war_support_factor = 0.2
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+
 
 }
