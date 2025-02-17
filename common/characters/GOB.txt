@@ -16,7 +16,7 @@ characters = {
 		name = GOB_tox_communism_leader
 		portraits = {
 			civilian = {
-				large = GFX_portrait_Kaapro_von_Gamer
+				large = GFX_portrait_Tox_Stalin
 			}
 		}
 		country_leader = {
@@ -29,7 +29,7 @@ characters = {
 		name = GOB_piglin_neutral_leader
 		portraits = {
 			civilian = {
-				large = GFX_portrait_Kaapro_von_Gamer
+				large = GFX_portrait_Baron_Piglin
 			}
 		}
 		country_leader = {

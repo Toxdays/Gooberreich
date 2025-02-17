@@ -8,4 +8,14 @@ spriteTypes = {
 		name = GFX_portrait_Husky_Pixelz
 		textureFile = gfx/leaders/Gooberreich/GOB_Husky_Pixelz.tga
 	}
+
+	spriteType = {
+		name = GFX_portrait_Baron_Piglin
+		textureFile = gfx/leaders/Gooberreich/GOB_Baron_Piglin.tga
+	}
+
+	spriteType = {
+		name = GFX_portrait_Tox_Stalin
+		textureFile = gfx/leaders/Gooberreich/GOB_Tox_Stalin.tga
+	}
 }
