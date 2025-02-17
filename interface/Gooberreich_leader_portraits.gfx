@@ -23,4 +23,9 @@ spriteTypes = {
 		name = GFX_portrait_Pabilo
 		textureFile = gfx/leaders/Gooberreich/GOB_Pabilo_Nunu_Genious.tga
 	}
+
+	spriteType = {
+		name = GFX_portrait_Zhadir
+		textureFile = gfx/leaders/Zhadirssaxony/ZHA_Zhadir.tga
+	}
 }

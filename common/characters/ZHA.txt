@@ -1,0 +1,14 @@
+characters = {
+	ZHA_Zhadir = {
+		name = ZHA_Zhadir_Neutrality
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Zhadir
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { child_molester }
+		}
+	}
+}
