@@ -1,0 +1,10 @@
+focus_tree = {
+	id = goober_focus
+	country = {
+		base = 0
+		modifier = {
+			add = 10
+			tag = GOB
+		}
+	}
+}
