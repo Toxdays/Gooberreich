@@ -46,7 +46,7 @@ focus_tree = {
         mutually_exclusive = {
             focus = GOB_focus_C_F_D
         }
-        completion_reward = {  }
+        completion_reward = { add_ideas = unpopular_figurehead }
     }
     focus = {
         id = GOB_focus_F
@@ -61,9 +61,9 @@ focus_tree = {
             focus = GOB_focus_C
             focus = GOB_focus_D
         }
-        completion_reward = { set_political_party = {
-            ideology = fascism
-            popularity = +50
+        completion_reward = { set_politics = {
+            ruling_party = fascism
+            elections_allowed = no
         } }
     }
     focus = {
@@ -79,9 +79,9 @@ focus_tree = {
             focus = GOB_focus_F
             focus = GOB_focus_C
         }
-        completion_reward = { set_political_party = {
-            ideology = democratic
-            popularity = +50
+        completion_reward = { set_politics = {
+            ruling_party = democratic
+            elections_allowed = no
         } }
     }
     focus = {
@@ -97,9 +97,9 @@ focus_tree = {
             focus = GOB_focus_F
             focus = GOB_focus_D
         }
-        completion_reward = { set_political_party = {
-            ideology = communism
-            popularity = +50
+        completion_reward = { set_politics = {
+            ruling_party = communism
+            elections_allowed = no
         } }
     }
 }
