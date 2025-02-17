@@ -32,7 +32,7 @@ focus_tree = {
         mutually_exclusive = {
             focus = GOB_focus_N
         }
-        completion_reward = { }
+        completion_reward = { add_stability = -0.1  }
     }
     focus = {
         id = GOB_focus_N
@@ -46,7 +46,7 @@ focus_tree = {
         mutually_exclusive = {
             focus = GOB_focus_C_F_D
         }
-        completion_reward = { }
+        completion_reward = {  }
     }
     focus = {
         id = GOB_focus_F
@@ -61,7 +61,10 @@ focus_tree = {
             focus = GOB_focus_C
             focus = GOB_focus_D
         }
-        completion_reward = { }
+        completion_reward = { set_political_party = {
+            ideology = fascism
+            popularity = +50
+        } }
     }
     focus = {
         id = GOB_focus_D
@@ -76,7 +79,10 @@ focus_tree = {
             focus = GOB_focus_F
             focus = GOB_focus_C
         }
-        completion_reward = { }
+        completion_reward = { set_political_party = {
+            ideology = democratic
+            popularity = +50
+        } }
     }
     focus = {
         id = GOB_focus_C
@@ -91,6 +97,9 @@ focus_tree = {
             focus = GOB_focus_F
             focus = GOB_focus_D
         }
-        completion_reward = { }
+        completion_reward = { set_political_party = {
+            ideology = communism
+            popularity = +50
+        } }
     }
 }

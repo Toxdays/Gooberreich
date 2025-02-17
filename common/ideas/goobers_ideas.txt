@@ -1,10 +1,10 @@
 ideas = {
 	country = {
-		goober_idea = {
+		unpopular_figurehead = {
 			picture = GFX_idea_Konigsbourger
 
 			modifier = {
-				political_power_gain = 0.3
+				political_power_gain = -0.2
 			}
 		}
 	}
