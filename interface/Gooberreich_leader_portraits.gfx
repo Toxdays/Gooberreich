@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = GFX_portrait_Kaapro_von_Gamer
+		textureFile = gfx/leaders/Gooberreich/GOB_Kaapro_the_Gamer.tga
+	}
+}
