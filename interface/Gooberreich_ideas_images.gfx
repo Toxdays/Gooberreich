@@ -1,0 +1,15 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = GFX_idea_Konigsbourger
+		textureFile = "gfx/interface/ideas/GOB_konigsbourger.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_Pabilo_Advisor	
+		textureFile = "gfx/interface/ideas/GOB_pabilo_advisor.dds"
+	}
+
+
+
+}

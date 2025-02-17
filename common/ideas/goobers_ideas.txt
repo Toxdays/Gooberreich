@@ -1,7 +1,7 @@
 ideas = {
 	country = {
 		goober_idea = {
-			picture = generic_pp_unity_bonus
+			picture = GFX_idea_Konigsbourger
 
 			modifier = {
 				political_power_gain = 0.3

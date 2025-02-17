@@ -35,7 +35,7 @@ recruit_character = GOB_Piglin_Neutral
 recruit_character = GOB_Kaapro_Fascism
 recruit_character = GOB_Tox_Communism
 recruit_character = GOB_Husky_Democratic
-
+recruit_character = GOB_Pabilo_General
 
 
 

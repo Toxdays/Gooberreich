@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = fascism_ideology
-			traits = { definitely_not_a_dictator, grand_wizard, goy, feminist }
+			traits = { definitely_not_a_dictator grand_wizard goy feminist }
 		}
 	}
 
@@ -21,7 +21,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = stalinism
-			traits = { femboy, jewish, petrokowski_heritige, soylent_enjoyer, mrcocksfag12 }
+			traits = { femboy jewish petrokowski_heritige soylent_enjoyer mrcocksfag12 }
 		}
 	}
 
@@ -34,7 +34,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = despotism
-			traits = { grand_baron, goy, wifes_boyfriend, hyper_borea}
+			traits = { grand_baron goy wifes_boyfriend hyperborea}
 		}
 	}
 
@@ -47,7 +47,34 @@ characters = {
 		}
 		country_leader = {
 			ideology = liberalism
-			traits = { fat, jewish, cruel_of_the_world, the_coach, discord_moderator, they_them_energy }
+			traits = { fat jewish cruel_of_the_world the_coach discord_moderator they_them_energy }
 		}
+	}
+
+	GOB_Pabilo_General = {
+		name = GOB_pabilo_general
+		portraits = {
+			civilian = {
+				small = GFX_idea_Pabilo_Advisor
+			}
+			army = {
+				large = GFX_portrait_Pabilo
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = pabilo_advisor_id
+			traits = { Nunu_genious }
+			
+		}
+		field_marshal = {
+			traits = { Nunu_genious }
+			skill = 10
+			attack_skill = 10
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 10
+		}
+
 	}
 }

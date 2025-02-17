@@ -18,4 +18,9 @@ spriteTypes = {
 		name = GFX_portrait_Tox_Stalin
 		textureFile = gfx/leaders/Gooberreich/GOB_Tox_Stalin.tga
 	}
+
+	spriteType = {
+		name = GFX_portrait_Pabilo
+		textureFile = gfx/leaders/Gooberreich/GOB_Pabilo_Nunu_Genious.tga
+	}
 }
