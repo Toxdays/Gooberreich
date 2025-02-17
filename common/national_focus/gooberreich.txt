@@ -10,80 +10,89 @@ focus_tree = {
     }
 
     focus = {
-        id = GOB_focus_1
+        id = GOB_focus_START
         icon = GFX_portrait_Husky_Pixelz
         cost = 1
-        x = 20
+        x = 2
         y = 0
         completion_reward = {
             add_political_power = 109
          }
     }
     focus = {
-        id = GOB_focus_2
-        icon = GFX_idea_generic_communist_army
-        relative_position_id = GOB_focus_1
+        id = GOB_focus_C_F_D
+        icon = GFX_idea_FRA_scw_intervention_republicans_focus
+        relative_position_id = GOB_focus_START
         cost = 1
-        x = 10
+        x = -2
         y = 1
         prerequisite = {
-            focus = GOB_focus_1
+            focus = GOB_focus_START
         }
         mutually_exclusive = {
-            focus = GOB_focus_3
-            focus = GOB_focus_4
-            focus = GOB_focus_5
+            focus = GOB_focus_N
         }
         completion_reward = { }
     }
     focus = {
-        id = GOB_focus_3
+        id = GOB_focus_N
         icon = GFX_idea_ger_revive_the_kaiserreich
-        relative_position_id = GOB_focus_1
         cost = 1
-        x = 5
+        x = 2
         y = 1
         prerequisite = {
-            focus = GOB_focus_1
+            focus = GOB_focus_START
         }
         mutually_exclusive = {
-            focus = GOB_focus_2
-            focus = GOB_focus_4
-            focus = GOB_focus_5
+            focus = GOB_focus_C_F_D
         }
         completion_reward = { }
     }
     focus = {
-        id = GOB_focus_4
+        id = GOB_focus_F
         icon = GFX_idea_german_advisors
-        relative_position_id = GOB_focus_1
         cost = 1
-        x = -5
-        y = 1
+        x = 1
+        y = 2
         prerequisite = {
-            focus = GOB_focus_1
+            focus = GOB_focus_START
+            focus = GOB_focus_C_F_D
         }
         mutually_exclusive = {
-            focus = GOB_focus_2
-            focus = GOB_focus_3
-            focus = GOB_focus_5
+            focus = GOB_focus_C
+            focus = GOB_focus_D
         }
         completion_reward = { }
     }
     focus = {
-        id = GOB_focus_5
+        id = GOB_focus_D
         icon = GFX_idea_new_deal
-        relative_position_id = GOB_focus_1
         cost = 1
-        x = -10
-        y = 1
+        x = -1
+        y = 2
         prerequisite = {
-            focus = GOB_focus_1
+            focus = GOB_focus_START
+            focus = GOB_focus_C_F_D
         }
         mutually_exclusive = {
-            focus = GOB_focus_2
-            focus = GOB_focus_3
-            focus = GOB_focus_4
+            focus = GOB_focus_F
+            focus = GOB_focus_C
+        }
+        completion_reward = { }
+    }
+    focus = {
+        id = GOB_focus_C
+        icon = GFX_idea_home_of_revolution
+        cost = 1
+        x = 0
+        y = 2
+        prerequisite = {
+            focus = GOB_focus_START
+            focus = GOB_focus_C_F_D
+        }
+        mutually_exclusive = {
+            focus = GOB_focus_F
+            focus = GOB_focus_D
         }
         completion_reward = { }
     }
