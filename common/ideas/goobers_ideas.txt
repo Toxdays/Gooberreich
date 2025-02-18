@@ -19,6 +19,25 @@ ideas = {
 			}
 		}
 	}
+	country = {
+		enslaved_goobers = {
+			picture = GFX_idea_CHL_communist_party_in_power
+
+			modifier = {
+				production_factory_efficiency_gain_factor = 0.1
+				conscription_factor = -0.2
+			}
+		}
+	}
+	country = {
+		slightly_less_enslaved_goobers = {
+			picture = GFX_idea_CHL_communist_party_in_power
+
+			modifier = {
+				
+			}
+		}
+	}
 
 
 }

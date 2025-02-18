@@ -18,6 +18,17 @@ focus_tree = {
         y = 0
         completion_reward = {
             add_political_power = 109
+            hidden_effect = {
+				if = {
+					limit = {
+						has_game_rule = {
+							rule = obsolete_focus_branches_visibility
+							option = HIDE
+						}
+					}
+					mark_focus_tree_layout_dirty = yes
+				}
+			}
          }
     }
     focus = {
@@ -98,6 +109,17 @@ focus_tree = {
             focus = GOB_focus_F
             focus = GOB_focus_D
         }
+        offset = {
+			x = 14
+			y = 2.25
+			trigger = {
+				has_game_rule = {
+					rule = obsolete_focus_branches_visibility
+					option = HIDE
+				}
+				has_completed_focus = GOB_focus_C
+			}
+		}
         completion_reward = { set_politics = {
             ruling_party = communism
             elections_allowed = no
