@@ -105,9 +105,9 @@ focus_tree = {
     }
     focus = {
         id = GOB_focus_keep_the_king_lite
-        icon = GFX_portrait_Zhadir
+        icon = GFX_idea_CHL_the_mapuche_conflict
         cost = 1
-        x = -0.25
+        x = -0.5
         y = 3.5
         prerequisite = {
             focus = GOB_focus_D
@@ -119,7 +119,7 @@ focus_tree = {
     }
     focus = {
         id = GOB_focus_behead_the_king
-        icon = GFX_portrait_Zhadir
+        icon = GFX_idea_ARG_spirit_of_the_conquistadors
         cost = 1
         x = 0.8
         y = 3.5
