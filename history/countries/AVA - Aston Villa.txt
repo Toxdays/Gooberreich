@@ -1,6 +1,6 @@
 ﻿capital = 111
 
-OOB = "AST_1936"
+OOB = "AVA_1936"
 
 set_convoys = 35
 set_research_slots = 3
@@ -31,7 +31,7 @@ set_popularities = {
 }
 
 
-recruit_character = AST_Coach
+recruit_character = AVA_Coach
 
 
 
