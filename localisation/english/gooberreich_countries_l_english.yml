@@ -31,6 +31,23 @@
  ZHA_communism: "Republic of Saxony"
  ZHA_communism_DEF: "The Worker's Republic of Saxony"
  ZHA_communism_ADJ: "Communist Saxon"
+ ####### ASTON VILLA #######
+ AST: "Aston Villa FC"
+ AST_DEF: "The Football Club of Aston Villa"
+ AST_ADJ: "Aston Villian"
+ AST_democratic: "Al-Aston"
+ AST_democratic_DEF: "The Arabic Owned Club of Al-Aston"
+ AST_democratic_ADJ: "Al-Astonian"
+ AST_fascism: "Coach's Aston Villa"
+ AST_fascism_DEF: "The Coach's Team of Aston Villa"
+ AST_fascism_ADJ: "Coach's Astonian"
+ AST_neutrality: "Royal Villa FC"
+ AST_neutrality_DEF: "The Royal Football Club of Aston Villa"
+ AST_neutrality_ADJ: "Royal Villian"
+ AST_communism: "Republic of Aston Villa"
+ AST_communism_DEF: "The Footballer's Republic of Aston Villa"
+ AST_communism_ADJ: "Footballing Astonian"
  
+
 
  

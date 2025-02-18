@@ -1,14 +1,14 @@
 characters = {
-	ZHA_Zhadir = {
-		name = ZHA_Zhadir_Neutrality
+	AST_Coach = {
+		name = AST_The_Coach
 		portraits = {
 			civilian = {
-				large = GFX_portrait_Zhadir
+				large = GFX_portrait_The_Coach
 			}
 		}
 		country_leader = {
-			ideology = despotism
-			traits = { child_molester }
+			ideology = rexism
+			traits = { coach_doesnt_play }
 		}
 	}
 }
