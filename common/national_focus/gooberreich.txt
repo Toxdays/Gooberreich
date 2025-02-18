@@ -115,7 +115,8 @@ focus_tree = {
         mutually_exclusive = {
             focus = GOB_focus_behead_the_king
         }
-        completion_reward = { add_ideas = constitutional_monarch }
+        completion_reward = { add_ideas =
+         constitutional_monarch }
     }
     focus = {
         id = GOB_focus_behead_the_king
@@ -134,7 +135,7 @@ focus_tree = {
 
     focus = {
         id = GOB_focus_C_1_VERY_UNCOMPLETED_FIX
-        icon = GFX_portrait_Zhadir
+        icon = GFX_idea_CHL_communist_party_in_power
         cost = 1
         x = 2
         y = 3.5
