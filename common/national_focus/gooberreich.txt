@@ -39,7 +39,7 @@ focus_tree = {
         id = GOB_focus_N
         icon = GFX_idea_ger_revive_the_kaiserreich
         cost = 1
-        x = 18
+        x = 5
         y = 1
         prerequisite = {
             focus = GOB_focus_START
@@ -47,14 +47,15 @@ focus_tree = {
         mutually_exclusive = {
             focus = GOB_focus_C_F_D
         }
+        relative_position_id = GOB_focus_START
         completion_reward = { add_ideas = unpopular_figurehead }
     }
     focus = {
         id = GOB_focus_F
         icon = GFX_idea_german_advisors
         cost = 1
-        x = 15
-        y = 2.25
+        x = 3.5
+        y = 1.25
         prerequisite = {
             focus = GOB_focus_C_F_D
         }
@@ -62,6 +63,7 @@ focus_tree = {
             focus = GOB_focus_C
             focus = GOB_focus_D
         }
+        relative_position_id = GOB_focus_C_F_D
         completion_reward = { set_politics = {
             ruling_party = fascism
             elections_allowed = no
@@ -71,8 +73,8 @@ focus_tree = {
         id = GOB_focus_D
         icon = GFX_idea_new_deal
         cost = 1
-        x = 8
-        y = 2.25
+        x = -3.5
+        y = 1.25
         prerequisite = {
             focus = GOB_focus_C_F_D
         }
@@ -80,6 +82,7 @@ focus_tree = {
             focus = GOB_focus_F
             focus = GOB_focus_C
         }
+        relative_position_id = GOB_focus_C_F_D
         completion_reward = { set_politics = {
             ruling_party = democratic
             elections_allowed = no
@@ -89,8 +92,8 @@ focus_tree = {
         id = GOB_focus_C
         icon = GFX_idea_home_of_revolution
         cost = 1
-        x = 11.5
-        y = 2.25
+        x = 0
+        y = 1.25
         prerequisite = {
             focus = GOB_focus_C_F_D
         }
@@ -98,6 +101,7 @@ focus_tree = {
             focus = GOB_focus_F
             focus = GOB_focus_D
         }
+        relative_position_id = GOB_focus_C_F_D
         completion_reward = { set_politics = {
             ruling_party = communism
             elections_allowed = no
@@ -107,14 +111,15 @@ focus_tree = {
         id = GOB_focus_D_N
         icon = GFX_idea_CHL_the_mapuche_conflict
         cost = 1
-        x = 9
-        y = 3.5
+        x = 0.75
+        y = 1.25
         prerequisite = {
             focus = GOB_focus_D
         }
         mutually_exclusive = {
             focus = GOB_focus_behead_the_king
         }
+        relative_position_id = GOB_focus_D
         completion_reward = { add_ideas =
          constitutional_monarch }
     }
@@ -122,14 +127,15 @@ focus_tree = {
         id = GOB_focus_behead_the_king
         icon = GFX_idea_ARG_spirit_of_the_conquistadors
         cost = 1
-        x = 7
-        y = 3.5
+        x = -0.75
+        y = 1.25
         prerequisite = {
             focus = GOB_focus_D
         }
         mutually_exclusive = {
             focus = GOB_focus_D_N
         }
+        relative_position_id = GOB_focus_D
         completion_reward = { add_stability = -0.3 }
     }
 
@@ -137,11 +143,12 @@ focus_tree = {
         id = GOB_focus_C_ENSLAVING
         icon = GFX_idea_CHL_communist_party_in_power
         cost = 1
-        x = 11.5
-        y = 3.5
+        x = 0
+        y = 1.25
         prerequisite = {
             focus = GOB_focus_C
         }
+        relative_position_id = GOB_focus_C
         completion_reward = { add_ideas = enslaved_goobers }
     }
 
