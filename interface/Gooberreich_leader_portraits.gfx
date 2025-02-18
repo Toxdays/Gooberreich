@@ -28,4 +28,9 @@ spriteTypes = {
 		name = GFX_portrait_Zhadir
 		textureFile = gfx/leaders/Zhadirssaxony/ZHA_Zhadir.tga
 	}
+
+	spriteType = {
+		name = GFX_portrait_The_Coach
+		textureFile = gfx/leaders/Astonvilla/AST_Coach.tga
+	}
 }
