@@ -104,7 +104,7 @@ focus_tree = {
         } }
     }
     focus = {
-        id = GOB_focus_keep_the_king_lite
+        id = GOB_focus_D_N
         icon = GFX_idea_CHL_the_mapuche_conflict
         cost = 1
         x = -0.5
@@ -127,7 +127,7 @@ focus_tree = {
             focus = GOB_focus_D
         }
         mutually_exclusive = {
-            focus = GOB_focus_keep_the_king_lite
+            focus = GOB_focus_D_N
         }
         completion_reward = { add_stability = -0.3 }
     }
