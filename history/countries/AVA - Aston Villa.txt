@@ -25,14 +25,16 @@ set_politics = {
 
 set_popularities = {
 	fascism = 70
-	neutrality = 0
-	democratic = 0
-	communism = 0
-	coachist = 30
+	neutrality = 5
+	democratic = 5
+	communism = 5
+	coachist = 15
 }
 
 
 recruit_character = AVA_Coach
+
+recruit_character = AVA_Kaapro_Fascism
 
 
 
