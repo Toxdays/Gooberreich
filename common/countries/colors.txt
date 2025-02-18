@@ -1084,5 +1084,9 @@ ZHA = {
 	color_ui = rgb {108 22 90}
 
 }
+AST = {
+	color = rgb { 102 4 52 }
+	color_ui = { 135 183 232 }
+}
 
 
