@@ -5,6 +5,17 @@ ideas = {
 
 			modifier = {
 				political_power_gain = -0.2
+				recruitable_population_factor = -0.025
+			}
+		}
+	}
+	country = {
+		constitutional_monarch = {
+			picture = GFX_portrait_Baron_Piglin
+
+			modifier = {
+				stability_factor = 0.05
+				recruitable_population_factor = 0.025
 			}
 		}
 	}
