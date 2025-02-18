@@ -1,6 +1,6 @@
 characters = {
-	AST_Coach = {
-		name = AST_The_Coach
+	AVA_Coach = {
+		name = AVA_The_Coach
 		portraits = {
 			civilian = {
 				large = GFX_portrait_The_Coach

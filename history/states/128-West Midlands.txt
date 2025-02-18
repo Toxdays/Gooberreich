@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = AST
+		owner = AVA
 		buildings = {
 			infrastructure = 4 #was: 8
 			arms_factory = 2
@@ -20,7 +20,7 @@ state={
 		victory_points = {
 			9297 25
 		}
-		add_core_of = AST
+		add_core_of = AVA
 		add_core_of = ENG
 		1939.1.1 = {
 			buildings = {
