@@ -1,0 +1,36 @@
+focus_tree = {
+    id = astonvilla_focus
+
+    country = {
+        base = 0
+        modifier = {
+            add = 10
+            tag = AST
+        }
+    }
+
+	focus = {
+		id = astonvilla_focus_start
+		icon = GFX_idea_CHL_carabineros_de_chile_fascist
+		cost = 1
+		x = 15
+		y = 0
+		completion_reward = { add_political_power = 200 }
+	}
+
+	focus = {
+		id = astonvilla_focus_coach_husky
+		icon = GFX_portrait_The_Coach
+		cost = 1
+		x = 0
+		y = 1.25
+		relative_position_id = astonvilla_focus_start
+		prerequisite = {
+			focus = astonvilla_focus_start
+		}
+		completion_reward = { set_political_party = {
+			ideology = coachist
+			popularity = 100
+		} }
+	}
+}
