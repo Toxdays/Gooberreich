@@ -182,6 +182,14 @@ leader_traits = {
 		}
 	}
 
-	
+	coach_doesnt_play = {
+		random = no
+		max_command_power_mult = 2
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 
 }

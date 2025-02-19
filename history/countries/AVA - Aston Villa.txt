@@ -33,7 +33,6 @@ set_popularities = {
 
 recruit_character = AVA_Coach
 
-recruit_character = AVA_Kaapro_Fascism
 
 
 

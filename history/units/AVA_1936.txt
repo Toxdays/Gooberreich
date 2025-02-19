@@ -36,33 +36,33 @@ units = {
 	division = {
 		name = "1st Honorary Kosta Division"
 		location = 6384
-		division_template = "ADC Player Division"
+		division_template = "Honorary Kosta Division"
 		start_experience_factor = 0.3
 	}
 	division = {
 		name = "2nd Honorary Kosta Division"
 		location = 6318
-		division_template = "ADC Player Division"
+		division_template = "Honorary Kosta Division"
 		start_experience_factor = 0.3
 	}
 	division = {
 		name = "1st Project Mbappe"
 		location = 9297
-		division_template = "Kled OTPs Division"
+		division_template = "Project Mbappe Division"
 		start_experience_factor = 1
 	}
 
 	division = {
 		name = "3rd Honorary Kosta Division"
 		location = 6301
-		division_template = "ADC Player Division"
+		division_template = "Honorary Kosta Division"
 		start_experience_factor = 0.3
 	}
 
 	division = {
 		name = "4th Honorary Kosta Division"
 		location = 3205
-		division_template = "ADC Player Division"
+		division_template = "Honorary Kosta Division"
 		start_experience_factor = 0.3
 	}
 }
