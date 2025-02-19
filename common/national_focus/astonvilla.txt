@@ -5,7 +5,7 @@ focus_tree = {
         base = 0
         modifier = {
             add = 10
-            tag = AST
+            tag = AVA
         }
     }
 
@@ -31,6 +31,7 @@ focus_tree = {
 		completion_reward = { set_political_party = {
 			ideology = fascism
 			popularity = 100
-		} }
+		} 
+	}
 	}
 }
