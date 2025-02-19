@@ -29,7 +29,7 @@ focus_tree = {
 			focus = astonvilla_focus_start
 		}
 		completion_reward = { set_political_party = {
-			ideology = coachist
+			ideology = fascism
 			popularity = 100
 		} }
 	}
