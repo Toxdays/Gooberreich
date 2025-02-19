@@ -31,7 +31,6 @@ focus_tree = {
 		completion_reward = { set_political_party = {
 			ideology = fascism
 			popularity = 100
-		} 
-	}
+		} }
 	}
 }

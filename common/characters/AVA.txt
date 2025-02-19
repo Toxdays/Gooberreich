@@ -7,22 +7,10 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = coachistian
+			ideology = rexism
 			traits = { coach_doesnt_play }
 		}
 	}
 
-	AVA_Kaapro_Fascism = {
-		name = AVA_kaapro_fascism_leader
-		portraits = {
-			civilian = {
-				large = GFX_portrait_Kaapro_von_Gamer
-			}
-		}
-		country_leader = {
-			ideology = fascism_ideology
-			traits = { }
-		}
-	}
 	
 }

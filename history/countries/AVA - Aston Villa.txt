@@ -24,11 +24,10 @@ set_politics = {
 }
 
 set_popularities = {
-	fascism = 70
-	neutrality = 5
+	fascism = 95
+	neutrality = 0
 	democratic = 5
-	communism = 5
-	coachist = 15
+	communism = 0
 }
 
 
