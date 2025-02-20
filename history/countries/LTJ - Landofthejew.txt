@@ -1,6 +1,6 @@
-﻿capital = 132
+﻿capital = 454
 
-OOB = "AVA_1936"
+OOB = "LTJ_1936"
 
 set_convoys = 35
 set_research_slots = 3
@@ -18,21 +18,19 @@ set_technology = {
 
 set_politics = {
 	ruling_party = fascism
-	last_election = "1933.3.5"
+	last_election = "2001.9.11"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 95
+	fascism = 90
 	neutrality = 0
-	democratic = 5
+	democratic = 10
 	communism = 0
 }
 
-
-recruit_character = AVA_Coach
-
+recruit_character = MHQ_Samuel_Rosenberg
 
 
 

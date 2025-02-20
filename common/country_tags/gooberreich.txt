@@ -1,3 +1,4 @@
 GOB = "countries/gooberreich.txt"
 ZHA = "countries/zhadirssaxony.txt"
 AVA = "countries/astonvilla.txt"
+LTJ = "countries/landofthejew.txt"

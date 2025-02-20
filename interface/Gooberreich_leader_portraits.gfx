@@ -33,4 +33,9 @@ spriteTypes = {
 		name = GFX_portrait_The_Coach
 		textureFile = gfx/leaders/Astonvilla/AST_Coach.tga
 	}
+
+	spriteType = {
+		name = GFX_portrait_Samuel_Rosenberg
+		textureFile = gfx/leaders/Landofthejew/LTJ_Samuel_Rosenberg.tga
+	}
 }

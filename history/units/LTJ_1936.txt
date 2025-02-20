@@ -1,0 +1,57 @@
+division_template = {
+	name = "Goblins"
+	regiments = {
+		infantry  = { x = 0 y = 0}
+		infantry  = { x = 0 y = 1}
+		infantry  = { x = 0 y = 2}
+		infantry  = { x = 1 y = 0}
+		infantry  = { x = 1 y = 1}
+		infantry  = { x = 1 y = 2}
+		infantry  = { x = 2 y = 0}
+		infantry  = { x = 2 y = 1}
+		infantry  = { x = 2 y = 2}
+	 }
+	support = {
+		engineer  = { x = 0 y = 0}
+		artillery = { x = 0 y = 1}
+		
+	}
+
+}
+division_template = {
+	name = "Jewgolians"
+	regiments = { 
+		cavalry = { x = 0 y = 0}
+		cavalry = { x = 0 y = 1}
+		cavalry = { x = 1 y = 0}
+		cavalry = { x = 1 y = 1}
+	}
+}
+
+units = {
+	division = {
+		name = "Goblins"
+		location = 1086 
+		division_template = "Goblins"
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "Goblins"
+		location = 4206
+		division_template = "Goblins"
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "Goblins"
+		location = 4206
+		division_template = "Goblins"
+		start_experience_factor = 0.5
+	}
+
+	division = {
+		name = "Goblins"
+		location = 1065
+		division_template = "Goblins"
+		start_experience_factor = 0.3
+	}
+}

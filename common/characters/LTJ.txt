@@ -1,0 +1,16 @@
+characters = {
+	MHQ_Samuel_Rosenberg = {
+		name = MHQ_Samuel_Rosenberg
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Samuel_Rosenberg
+			}
+		}
+
+		country_leader = {
+			ideology = rexism
+			traits = { jewish jewish jewish jewish }
+		}
+	}
+
+}

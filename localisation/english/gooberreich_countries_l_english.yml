@@ -50,6 +50,22 @@
  AVA_coachist: "Huskys Aston Villa"
  AVA_coachist_DEF: "Huskys Aston Villa"
  AVA_coachist_ADJ: "Huskys Aston Villian"
+ ####### LAND OF THE JEW ####### 
+ LTJ: "Jew Land"
+ LTJ_DEF: "The Jew Land"
+ LTJ_ADJ: "Jewish"
+ LTJ_democratic: "Republic of Jerusalem"
+ LTJ_democratic_DEF: "The Republic of Jerusalem"
+ LTJ_democratic_ADJ: "Jerusalemian"
+ LTJ_fascism: "Land of the Jew"
+ LTJ_fascism_DEF: "The Land of the Jewish People"
+ LTJ_fascism_ADJ: "Jewish"
+ LTJ_neutrality: "Royal Villa FC"
+ LTJ_neutrality_DEF: "The Royal Football Club of Aston Villa"
+ LTJ_neutrality_ADJ: "Royal Villian"
+ LTJ_communism: "Republic of Aston Villa"
+ LTJ_communism_DEF: "The Footballer's Republic of Aston Villa"
+ LTJ_communism_ADJ: "Footballing Astonian"
 
 
  
