@@ -1,0 +1,19 @@
+focus_tree = {
+	id = LTJ
+	country = {
+		base = 0
+		modifier = {
+			add = 10
+			tag = LTJ
+		}
+	 }
+
+	 focus = {
+		id = LTJ_START
+		icon = GFX_idea_CHL_french_aristocracy
+		cost = 1
+		x = 10
+		y = 0
+		completion_reward = { add_political_power = 100 }
+	 }
+}
