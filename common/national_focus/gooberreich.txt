@@ -69,19 +69,7 @@ focus_tree = {
             elections_allowed = no
         } }
     }
-    focus = {
-        id = GOB_focus_F_MADNESS_START
-        icon = GFX_idea_lockheed
-        cost = 1
-        x = 0
-        y = 1.25
-        relative_position_id = GOB_focus_F
-        prerequisite = {
-            focus = GOB_focus_F
-        }
-        completion_reward = {  }
-    }
-
+    
     focus = {
         id = GOB_focus_D
         icon = GFX_idea_new_deal

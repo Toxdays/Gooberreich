@@ -1,4 +1,5 @@
 ideas = {
+		## DEMOCRATIC ##
 	country = {
 		unpopular_figurehead = {
 			picture = GFX_idea_Konigsbourger
@@ -19,6 +20,7 @@ ideas = {
 			}
 		}
 	}
+	### COXFAG COMMUNIST ###
 	country = {
 		enslaved_goobers = {
 			picture = GFX_idea_CHL_communist_party_in_power
@@ -44,6 +46,8 @@ ideas = {
 			}
 		}
 	}
+
+	## FASCIST KAAPRO ###
 	country = {
 		ruled_by_a_madman = {
 			picture = GFX_idea_rock_island_arsenal

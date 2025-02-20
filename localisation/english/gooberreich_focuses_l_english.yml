@@ -9,10 +9,12 @@
  GOB_focus_D_desc: "The Prime Minister of Konigsbourg 'Huskypixelz' uses his executive rights to declare the election as falty and this Nation will be a Democracy due to the Incompentence of Monarchs. "
  GOB_focus_C: "Communist Coup of GFX"
  GOB_focus_C_desc: "The Stalinist Tox(theOne) is the richest in the Barony, he uses his riches to influence the masses into THE COMMUNIST COUP OF GFX"
- GOB_focus_F: "An Annunaki backed candidate"
- GOB_focus_F_desc: "The Annunaki have decided to intervene in the Konigsbourg election and back their vessel 'Kaapro(theGamer)' with their divine annunaki powers. "
+ GOB_focus_F: "Random schizo Hobo"
+ GOB_focus_F_desc: "Tonsilstones"
+ GOB_focus_F_ANNUNAKI_desc: "The Annunaki have decided to intervene in the Konigsbourg election and back their vessel 'Kaapro(theGamer)' with their divine annunaki powers. " #yeah ill fix later
  GOB_focus_D_N: "Reform The Constitution"
  GOB_focus_D_N_desc: "That Snake Tox..... He made the Constitution against us goys... we will break and reform until that pesky Tox fella doesn't have any influence..."
+ ##Industry stuff nshiet
  GOB_focus_INDUSTRY: "Begin Industrialization of the Goobers"
  GOB_focus_INDUSTRY_2: "Expansion of Temu Factories"
  GOB_focus_INDUSTRY_RESOURCES: "The Children Yearn for the Mines"
