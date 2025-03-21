@@ -24,14 +24,17 @@ set_politics = {
 }
 
 set_popularities = {
-	fascism = 95
+	fascism = 90
 	neutrality = 0
-	democratic = 5
+	democratic = 0
 	communism = 0
+	pabloism = 5
+	huskyism = 5
 }
 
 
-recruit_character = AVA_Coach
+recruit_character = AVA_Coach_Husky
+recruit_character = AVA_coach_Pablo
 
 
 

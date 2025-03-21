@@ -1,13 +1,29 @@
 characters = {
-	AVA_Coach = {
-		name = AVA_The_Coach
+	AVA_Husky = {
+		name = AVA_Coach_Husky
 		portraits = {
 			civilian = {
 				large = GFX_portrait_The_Coach
 			}
 		}
 		country_leader = {
-			ideology = rexism
+			ideology = coach_husky
+			traits = { coach_doesnt_play }
+		}
+	}
+
+	
+}
+characters = {
+	AVA_Pablo = {
+		name = AVA_coach_Pablo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_The_Coach
+			}
+		}
+		country_leader = {
+			ideology = coach_pablo
 			traits = { coach_doesnt_play }
 		}
 	}

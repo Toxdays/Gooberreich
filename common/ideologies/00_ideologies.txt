@@ -252,4 +252,45 @@ ideologies = {
 		
 		ai_give_core_state_control_threshold = 10000
 	}
+
+	huskyism = {
+		types = {
+			coach_husky = {
+
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_huskyism_1"
+		}
+		color = {
+			255, 204, 0
+		}
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+		ai_fascist = yes
+	}
+
+	pabloism = {
+		types = {
+			coach_pablo = {
+
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_pabloism_1"
+		}
+		color = {
+			255, 219, 172
+		}
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+		ai_fascist = yes
+	}
 }

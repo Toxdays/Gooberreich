@@ -32,6 +32,7 @@ focus_tree = {
 			ideology = huskyism
 			popularity = 100
 		} 
+		
 	}
 	}
 }
